@@ -1,0 +1,55 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+} 
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 5em;
+  text-decoration: underline;
+  margin: 10px;
+}
+
+/*Responsive styles*/
+#image {
+  max-width: 40%;
+  height: auto;
+  display: block;
+  margin: 0 auto; /*this centers the image*/
+  border: red solid 0.5em;
+}
+
+.caption-img {
+  padding: 15px;
+  margin: -10px 0px 30px;
+}
+
+.list-design {
+  border: red dotted 0.3em;
+  padding: 10px 20px 10px 20px;
+  line-height: 1.3;
+  text-align: left;
+}
+
+.tributeLink {
+  margin: 20px;
+}
+
+a:hover {
+  color: red;
+}
+
+q {
+  font-style: italic;
+  width: 60%;
+  display: inline-block;
+  margin-bottom: 10px;
+}
