@@ -1,4 +1,4 @@
-Tribute page test on freecodecamp.com, created on Codepen.io using HTML and CSS. Link to pen: https://codepen.io/Melemi/pen/abpWzNE?editors=1100
+Tribute page test on freecodecamp.com, created on Codepen.io using HTML and CSS. Link to Maya Angelou tribute page pen: https://codepen.io/Melemi/pen/abpWzNE?editors=1100
 
 Test parameters are below:
 
