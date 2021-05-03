@@ -1,5 +1,7 @@
 Tribute page test on freecodecamp.com, created on Codepen.io using HTML and CSS. Link to Maya Angelou tribute page pen: https://codepen.io/Melemi/pen/abpWzNE?editors=1100
 
+It should be noted that I would replace many of the ID's with classes, but I had to use ID's to pass the tests. 
+
 Test parameters are below:
 
 #Content
